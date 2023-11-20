@@ -1,0 +1,13 @@
+/Users/pabloag/Desktop/DEV/19-11-2023/Consalud/apiRestConsalud/apiRestConsalud/bin/Release/net6.0/publish/apiRestConsalud
+/Users/pabloag/Desktop/DEV/19-11-2023/Consalud/apiRestConsalud/apiRestConsalud/bin/Release/net6.0/publish/appsettings.Development.json
+/Users/pabloag/Desktop/DEV/19-11-2023/Consalud/apiRestConsalud/apiRestConsalud/bin/Release/net6.0/publish/appsettings.json
+/Users/pabloag/Desktop/DEV/19-11-2023/Consalud/apiRestConsalud/apiRestConsalud/bin/Release/net6.0/publish/BD/JsonEjemplo.json
+/Users/pabloag/Desktop/DEV/19-11-2023/Consalud/apiRestConsalud/apiRestConsalud/bin/Release/net6.0/publish/apiRestConsalud.dll
+/Users/pabloag/Desktop/DEV/19-11-2023/Consalud/apiRestConsalud/apiRestConsalud/bin/Release/net6.0/publish/apiRestConsalud.deps.json
+/Users/pabloag/Desktop/DEV/19-11-2023/Consalud/apiRestConsalud/apiRestConsalud/bin/Release/net6.0/publish/apiRestConsalud.runtimeconfig.json
+/Users/pabloag/Desktop/DEV/19-11-2023/Consalud/apiRestConsalud/apiRestConsalud/bin/Release/net6.0/publish/apiRestConsalud.pdb
+/Users/pabloag/Desktop/DEV/19-11-2023/Consalud/apiRestConsalud/apiRestConsalud/bin/Release/net6.0/publish/Microsoft.OpenApi.dll
+/Users/pabloag/Desktop/DEV/19-11-2023/Consalud/apiRestConsalud/apiRestConsalud/bin/Release/net6.0/publish/Newtonsoft.Json.dll
+/Users/pabloag/Desktop/DEV/19-11-2023/Consalud/apiRestConsalud/apiRestConsalud/bin/Release/net6.0/publish/Swashbuckle.AspNetCore.Swagger.dll
+/Users/pabloag/Desktop/DEV/19-11-2023/Consalud/apiRestConsalud/apiRestConsalud/bin/Release/net6.0/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/pabloag/Desktop/DEV/19-11-2023/Consalud/apiRestConsalud/apiRestConsalud/bin/Release/net6.0/publish/Swashbuckle.AspNetCore.SwaggerUI.dll
